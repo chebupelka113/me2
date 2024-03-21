@@ -1,0 +1,99 @@
+
+
+body {
+background-color: pink;
+
+font-size: 16px;
+font-weight: 450;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.avatar {
+    width: 175px;
+    border-radius: 30px;
+    box-shadow: 4px 4px 14px black;
+    margin-left: 290px;
+}
+
+.info p {
+    color: #86898f;
+    margin: 0;
+    font-style: italic;
+    text-decoration: none;
+    
+    }
+
+    .social {
+        background: aqua;
+        padding-left: 40px;
+        font-style: italic;
+        border: 5px solid blue;
+        border-width: 7px;
+        margin: 5px 30px;
+        border-radius: 20px;
+        border-style: double;
+        box-shadow: 4px 4px 14px black;
+    }
+
+
+    .container {
+
+    max-width: 750px;
+    margin: auto;
+}
+
+.sps {
+    font-style: italic;
+    background: aqua;
+    padding-left: 40px;
+    border: 5px solid blue;
+    border-width: 7px;
+    margin: 5px 30px;
+    border-radius: 20px;
+    border-style: double;
+    box-shadow: 4px 4px 14px black;
+}
+
+.hobbi {
+    background: yellowgreen;
+    padding-left: 40px;
+    border: 5px solid blue;
+    font-style: italic;
+    border-width: 7px;
+    margin: 5px 30px;
+    border-radius: 20px;
+    border-style: double;
+    box-shadow: 4px 4px 14px black;
+}
+
+.work {
+    background: yellow;
+    padding-left: 40px;
+    border: 5px solid blue;
+    border-width: 7px;
+    margin: 5px 30px;
+    border-radius: 20px;
+    border-style: double;
+    font-style: italic;
+    padding-bottom: 25px;
+    box-shadow: 4px 4px 14px black;
+}
+
+.call {
+    background: rgb(195, 93, 96);
+    padding-left: 40px;
+    border: 5px solid rgb(16, 7, 133);
+    font-style: italic;
+    border-width: 7px;
+    margin: 5px 30px;
+    border-radius: 20px;
+    border-style: double;
+    padding-bottom: 25px;
+    box-shadow: 4px 4px 14px black;
+}
+
+.name {
+    margin-left: 250px;
+}
+
